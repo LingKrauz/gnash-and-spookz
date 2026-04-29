@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/TestingMenu/TestingMainMenu.unity
+    guid: 1a405f21682ab7342aa7836c44878570
+  - enabled: 1
+    path: Assets/Scenes/Penguin Parkway/PenguinParkway.unity
+    guid: 6bcac84c153acbf4faea308f6cd4feb8
+  - enabled: 1
+    path: Assets/Scenes/Green Oozeland/GreenOozeland.unity
+    guid: 2893b2654658310488f5ba5565e48908
+  - enabled: 1
+    path: Assets/Scenes/Krakatoa Volcano/KrakatoaVolcano.unity
+    guid: 6d8da5b2243a7e045b3771e7b0553dcf
+  - enabled: 1
+    path: Assets/Scenes/BackyardMaze/Backyard_Maze.unity
+    guid: d09b240ba1810c540ab25daf7d46c514
+  - enabled: 1
+    path: Assets/Scenes/CoocooCorsairCove/CoocooCorsairCove.unity
+    guid: 4ec51be5e479910488ba3f5fe324a02d
+  - enabled: 1
+    path: Assets/Scenes/Kryptek Tower/KryptekTower.unity
+    guid: 90c8df12f521a614aa56c414e78594e9
+  - enabled: 1
+    path: Assets/Scenes/HubLevel/HubLevel.unity
+    guid: ce27b792e50549b4594bcbcbb2f2361a
+  - enabled: 1
+    path: Assets/Scenes/Titanic Towering Throne/Titanic Towering Throne.unity
+    guid: ec231402c8dc617489c2f8be01c6265a
+  - enabled: 1
+    path: Assets/Scenes/TestingMenu/CreditsScene.unity
+    guid: 5ddb60624250ff14eae7973a8363c678
+  - enabled: 1
+    path: Assets/Scenes/Intro Level/IntroLevel.unity
+    guid: a8c8b570159d3334ab4978574e92240c
+  m_configObjects: {}
